@@ -1460,6 +1460,9 @@ header {
     width: 240px;
     margin-left: -120px;
   }
+  .banner-desc .main-title {
+    font-size: 25px;
+  }
 }
 .client-reviews {
   overflow: hidden;
