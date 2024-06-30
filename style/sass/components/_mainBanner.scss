@@ -21,7 +21,7 @@
   background-color: $dark-green;
   height: 100%;
   position: relative;
-  clip-path: ellipse(100% 100% at 50% 0%);
+  // clip-path: ellipse(100% 100% at 50% 0%);
 }
 
 .banner-desc {
@@ -201,9 +201,9 @@
     line-height: 1.5;
     margin-bottom: 12px;
   }
-  .mainBanner-parent {
-    clip-path: ellipse(160% 100% at 50% 0%);
-  }
+  // .mainBanner-parent {
+  //   clip-path: ellipse(160% 100% at 50% 0%);
+  // }
   .banner-desc .second-title {
     font-size: 20px;
     line-height: 1.45;
