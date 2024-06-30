@@ -1264,8 +1264,6 @@ header {
   background-color: #367359;
   height: 100%;
   position: relative;
-  -webkit-clip-path: ellipse(100% 100% at 50% 0%);
-          clip-path: ellipse(100% 100% at 50% 0%);
 }
 
 .banner-desc {
@@ -1436,10 +1434,6 @@ header {
     width: 100%;
     line-height: 1.5;
     margin-bottom: 12px;
-  }
-  .mainBanner-parent {
-    -webkit-clip-path: ellipse(160% 100% at 50% 0%);
-            clip-path: ellipse(160% 100% at 50% 0%);
   }
   .banner-desc .second-title {
     font-size: 20px;
@@ -1746,7 +1740,6 @@ html[dir=ltr] .client-reviews .swiper-buttons div i {
   width: 340px;
   height: 50px;
   position: relative;
-  border-radius: 25px;
   background-color: #ffffff;
   border: 2px solid #ebebeb;
   transition: all ease-in-out 0.2s;
